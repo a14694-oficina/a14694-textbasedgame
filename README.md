@@ -55,6 +55,8 @@ O input do utilizador é utilizado para conseguir escrever as coisas
 A.  
 Dificuldade a escrever os códigos mas depois fui ver e pedi ajuda e aí consegui fazer o jogo 
 
-5. 
+5. Conclusão
 A. 
-O meu projeto em si tá bom, mas pretendo aprender mais sobre a programação para conseguir programar melhor  
+O meu projeto em si tá bom, mas pretendo aprender mais sobre a programação para conseguir programar melhor
+
+
